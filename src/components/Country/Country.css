@@ -1,6 +1,8 @@
 .country{
-    border: 2px solid skyblue;
+    border: 10px solid rgb(18, 58, 73);
     margin: 15px;
     padding: 15px;
     border-radius: 15px;
+    background-color: rgb(224, 222, 222);
+    color: black;
 }
