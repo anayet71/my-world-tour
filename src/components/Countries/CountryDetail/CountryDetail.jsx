@@ -9,7 +9,7 @@ const CountryDetail = ({country, handleVisitedCountry, handleVisitedFlags}) => {
                 country= {country}
                 handleVisitedCountry = {handleVisitedCountry}
                 handleVisitedFlags={handleVisitedFlags}
-                ></CountryData>
+            ></CountryData>
         </div>
     );
 };
